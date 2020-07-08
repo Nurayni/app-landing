@@ -1,0 +1,11 @@
+@media (max-width: 1199px) {
+    .header-wrapper .banner-content h3 {
+        margin: 0;
+        margin-bottom: 0px;
+        color: #fff;
+        font-size: 37px;
+        line-height: 60px;
+        font-weight: 700;
+        margin-bottom: 11px;
+    }
+}
